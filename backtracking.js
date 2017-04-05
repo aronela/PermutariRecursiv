@@ -1,3 +1,5 @@
+// Codul JS pentru Permutari - Metoda Backtrackinhg
+
 function backtrackingNerecursiv(n) {
   
   var k = 0;
